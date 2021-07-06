@@ -4,7 +4,7 @@
 Front-End Developer
 I’m a front-end web developer with over 3 years of experience. I'm very familiar with using frameworks, my websites are primarily hand-coded using HTML5, CSS3, SVG, Canvas & JavaScript. With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website front-end code without compromising on browser support and performance.
 
-### Skills
+## Skills
 * React
 * Javascript
 * HTML
