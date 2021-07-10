@@ -12,6 +12,6 @@ Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <br />
 ## Github Stats
-<img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javid97&show_icons=true&hide_border=true" />
+<img align="left" alt="Javid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=javid97&show_icons=true&hide_border=true" />
 <img align="left" alt="Javid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid97" />
 
