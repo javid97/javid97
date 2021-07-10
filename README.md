@@ -18,9 +18,7 @@ Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily
 
 </details>
 
-<details>
-## <summary>:zap: Most Used Languages</summary>
+### Most Used Languages
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid97" />
 
-</details>
