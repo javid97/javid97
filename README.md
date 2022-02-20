@@ -8,13 +8,11 @@
 </> 
 ```
 ## Connect
-___
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javidraina/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javid97)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IamJavidRaina/)
 
 ## Skills
----
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -34,14 +32,9 @@ ___
 
 
 ## Languages used
----
 <img alt="Javid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid97" />
 
 ## Github Stats
-___
-
-
 ![](https://github-profile-trophy.vercel.app/?username=javid97)
-
 ![](https://activity-graph.herokuapp.com/graph?username=javid97&theme=minimal)
 
