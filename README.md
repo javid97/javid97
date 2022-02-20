@@ -1,10 +1,8 @@
 ![Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEakAxjtaaC5w/profile-displaybackgroundimage-shrink_350_1400/0/1607831807235?e=1651104000&v=beta&t=TPsSTebG5gCyqjGSorWUohT8UIFG7mTUm9eRSy7TU8A)
 
 # **\< Javid Ahmad Raina \/>**
-<>
-     Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily hand-coded using Javascript, HTML5, and CSS3. With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website's front-end code without compromising on browser support and performance.
+Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily hand-coded using Javascript, HTML5, and CSS3. With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website's front-end code without compromising on browser support and performance.
 
-</> 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javidraina/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javid97)
