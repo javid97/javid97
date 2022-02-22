@@ -28,7 +28,7 @@ Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily
 
 
 ## Languages used
-<img alt="Javid's GitHub Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=javid97&theme=tokyonight" />
+<img alt="Javid's GitHub Top Languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=javid97&langs_count=10&layout=compact&theme=radical" />
 
 ## Github Stats
 ![](https://github-profile-trophy.vercel.app/?username=javid97)
