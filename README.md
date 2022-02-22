@@ -11,7 +11,7 @@ Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -28,9 +28,9 @@ Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily
 
 
 ## Languages used
-<img alt="Javid's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javid97" />
+<img alt="Javid's GitHub Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=javid97&theme=tokyonight" />
 
 ## Github Stats
 ![](https://github-profile-trophy.vercel.app/?username=javid97)
-![](https://activity-graph.herokuapp.com/graph?username=javid97&theme=minimal)
+![](https://activity-graph.herokuapp.com/graph?username=javid97&theme=xcode)
 
