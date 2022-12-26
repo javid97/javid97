@@ -1,6 +1,7 @@
 
 <img alt="Javid's GitHub Top Languages" src="https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045275064?e=1677715200&v=beta&t=H8hkHgp7baXEnprV0Jnt6rp3a0yFx81w1_kYtRXbCoU" />
-# **\< Javid Ahmad Raina \/>**
+
+# \< Javid Ahmad Raina \/>
 Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily hand-coded using Javascript, HTML5, and CSS3. With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website's front-end code without compromising on browser support and performance.
 
 ## Connect
