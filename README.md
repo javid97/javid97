@@ -2,7 +2,7 @@
 <img alt="Javid's GitHub Top Languages" src="https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045275064?e=1686182400&v=beta&t=MvV7iNI-6r5baPCVWXRygfVBfaSrMsosZF6SUs5R-0s" />
 
 # \< Javid Ahmad Raina \/>
-Hi, I'm Javid Ahmad Raina. I am a front-end developer. My websites are primarily hand-coded using Javascript, HTML5, and CSS3. With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website's front-end code without compromising on browser support and performance.
+As an SDE-I Fullstack at ekincare, I have over 2 years of experience as a proficient Front-End Developer. My expertise in Typescript, React, PWA, Web Components and System Designing allows me to design and implement high-quality web applications that provide an exceptional user experience. I am a detail-oriented team player who is committed to staying up-to-date with industry best practices and delivering outstanding results.
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javidraina/)
