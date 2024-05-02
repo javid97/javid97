@@ -1,8 +1,8 @@
 
-<img alt="Javid's GitHub Top Languages" src="https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045275064?e=1686182400&v=beta&t=MvV7iNI-6r5baPCVWXRygfVBfaSrMsosZF6SUs5R-0s" />
+<img alt="Javid's GitHub Top Languages" src="[https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045275064?e=1686182400&v=beta&t=MvV7iNI-6r5baPCVWXRygfVBfaSrMsosZF6SUs5R-0s](https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045276021?e=1720051200&v=beta&t=oo2W35ZUgpkRVtAfy7VEjthskWTsdMiHAsd0X89fFk4)" />
 
 # \< Javid Ahmad Raina \/>
-As an SDE-I Fullstack at ekincare, I have over 2 years of experience as a proficient Front-End Developer. My expertise in Typescript, React, PWA, Web Components and System Designing allows me to design and implement high-quality web applications that provide an exceptional user experience. I am a detail-oriented team player who is committed to staying up-to-date with industry best practices and delivering outstanding results.
+Highly skilled and motivated Frontend Developer with over 4 years of professional experience, specializing in React Js, JavaScript, TypeScript, HTML, CSS, Redux, unit testing, integration testing and end to end testing, git, GitHub and GitHub actions. A quick learner with a passion for creating user-friendly and responsive web applications. Proficient in developing Progressive Web Apps (PWAs) to enhance user experiences across various devices.
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javidraina/)
