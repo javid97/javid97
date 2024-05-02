@@ -1,13 +1,11 @@
 
-<img alt="Javid's GitHub Top Languages" src="[https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045275064?e=1686182400&v=beta&t=MvV7iNI-6r5baPCVWXRygfVBfaSrMsosZF6SUs5R-0s](https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045276021?e=1720051200&v=beta&t=oo2W35ZUgpkRVtAfy7VEjthskWTsdMiHAsd0X89fFk4)" />
+<img alt="Javid's GitHub Top Languages" src="https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045275064?e=1686182400&v=beta&t=MvV7iNI-6r5baPCVWXRygfVBfaSrMsosZF6SUs5R-0s](https://media.licdn.com/dms/image/D5616AQFj7P_mc20wAQ/profile-displaybackgroundimage-shrink_350_1400/0/1672045276021?e=1720051200&v=beta&t=oo2W35ZUgpkRVtAfy7VEjthskWTsdMiHAsd0X89fFk4)" />
 
 # \< Javid Ahmad Raina \/>
 Highly skilled and motivated Frontend Developer with over 4 years of professional experience, specializing in React Js, JavaScript, TypeScript, HTML, CSS, Redux, unit testing, integration testing and end to end testing, git, GitHub and GitHub actions. A quick learner with a passion for creating user-friendly and responsive web applications. Proficient in developing Progressive Web Apps (PWAs) to enhance user experiences across various devices.
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javidraina/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javid97)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IamJavidRaina/)
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
