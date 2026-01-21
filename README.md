@@ -2,10 +2,10 @@
 <img alt="Javid's cover photo" src="https://raw.githubusercontent.com/javid97/images/main/Javid%20Raina%20cover%20Photo.jfif" />
 
 # \< Javid Ahmad Raina \/>
-Highly skilled and motivated Frontend Developer with over 4 years of professional experience, specializing in React Js, JavaScript, TypeScript, HTML, CSS, Redux, unit testing, integration testing and end to end testing, git, GitHub and GitHub actions. A quick learner with a passion for creating user-friendly and responsive web applications. Proficient in developing Progressive Web Apps (PWAs) to enhance user experiences across various devices.
+Award-winning Frontend Developer with around 6 years of experience building scalable, responsive, and high-performance web applications using React, TypeScript, and Vue. Recognized for developing user-centric solutions, optimizing performance, and delivering seamless User Interface (UI) experiences. Strong expertise in CI/CD, automated testing, and Progressive Web Apps (PWA) to improve engagement, accessibility, and efficiency across platforms.
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javidraina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javid-raina/)
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
