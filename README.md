@@ -24,7 +24,7 @@
 
 | **Most Used Languages** | **GitHub Profile Stats** |
 | :---: | :---: |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javid97&layout=compact&theme=vision-glow&hide=html,css" alt="Top Langs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Javid97&show_icons=true&theme=vision-glow&count_private=true" alt="Javid's Stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javid97&layout=compact&theme=vision-glow&hide=html,css" alt="Top Langs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Javid97&show_icons=true&theme=vision-glow&count_private=true" alt="Javid's Stats" />|
 
 ---
 
