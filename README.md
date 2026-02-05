@@ -9,7 +9,6 @@ solutions, optimizing performance, and delivering seamless User Interface (UI) e
 in CI/CD, automated testing, and Progressive Web Apps (PWA) to improve engagement, accessibility, and
 efficiency across platforms.
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank_5--Star_React-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/06c3a5e7b7e2) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javid-raina)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Javid97)
 
