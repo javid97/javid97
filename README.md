@@ -3,7 +3,11 @@
 
 # 🚀 Javid Ahmad Raina | Frontend Developer
 
-[cite_start]**Award-Winning Frontend Engineer** with ~6 years of experience building high-performance, scalable web applications[cite: 5]. [cite_start]I specialize in **React**, **TypeScript**, and **Vue**, with a deep focus on **UI/UX optimization** and **performance engineering**.
+Award-winning Frontend Developer with around 6 years of experience building scalable, responsive, and
+high-performance web applications using React, TypeScript, and Vue. Recognized for developing user-centric
+solutions, optimizing performance, and delivering seamless User Interface (UI) experiences. Strong expertise
+in CI/CD, automated testing, and Progressive Web Apps (PWA) to improve engagement, accessibility, and
+efficiency across platforms.
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank_5--Star_React-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/06c3a5e7b7e2) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javid-raina)
