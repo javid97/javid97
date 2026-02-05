@@ -24,14 +24,6 @@ efficiency across platforms.
 
 ---
 
-### 📊 My Coding Activity
-
-| **Most Used Languages** | **GitHub Profile Stats** |
-| :---: | :---: |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javid97&layout=compact&theme=vision-glow&hide=html,css" alt="Top Langs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Javid97&show_icons=true&theme=vision-glow&count_private=true" alt="Javid's Stats" />|
-
----
-
 ### 📈 Career Highlights & Impact
 
 * **Blue Yonder (Cognitive Factory):** Engineered and deployed process automation solutions from scratch, improving operational efficiency.
@@ -70,14 +62,10 @@ A real-time forecasting tool integrating the OpenWeatherMap API.
 * 🔗 **LinkedIn:** [Javid Raina](https://www.linkedin.com/in/javid-raina)
 
 ---
-![Metrics](/github-metrics.svg)
 
 
 
 ## Languages used
 <img alt="Javid's GitHub Top Languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=javid97&langs_count=10&layout=compact&theme=radical" />
 
-## Github Stats
-![](https://github-profile-trophy.vercel.app/?username=javid97)
-![](https://activity-graph.herokuapp.com/graph?username=javid97&theme=xcode)
 
